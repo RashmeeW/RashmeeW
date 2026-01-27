@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there, I am RashmeeW
 🔭 I’m currently working on GenAI and ML Projects<br>🌱 I’m currently learning and exploring Data Science industry<br>⚡ Fun fact " I love and admire the Nature ☘️"
 
 
